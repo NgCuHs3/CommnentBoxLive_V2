@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Commnent Box Live .Dot net 4.7.2 VSTO\CommnetBoxLive\taspkpanelib\bin\Debug\taspkpanelib.dll
+C:\Users\admin\Desktop\Commnent Box Live .Dot net 4.7.2 VSTO\CommnetBoxLive\taspkpanelib\bin\Debug\taspkpanelib.pdb
+C:\Users\admin\Desktop\Commnent Box Live .Dot net 4.7.2 VSTO\CommnetBoxLive\taspkpanelib\obj\Debug\taspkpanelib.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Commnent Box Live .Dot net 4.7.2 VSTO\CommnetBoxLive\taspkpanelib\obj\Debug\taskpaneUi.g.cs
+C:\Users\admin\Desktop\Commnent Box Live .Dot net 4.7.2 VSTO\CommnetBoxLive\taspkpanelib\obj\Debug\taspkpanelib_MarkupCompile.cache
+C:\Users\admin\Desktop\Commnent Box Live .Dot net 4.7.2 VSTO\CommnetBoxLive\taspkpanelib\obj\Debug\taspkpanelib_MarkupCompile.lref
+C:\Users\admin\Desktop\Commnent Box Live .Dot net 4.7.2 VSTO\CommnetBoxLive\taspkpanelib\obj\Debug\taskpaneUi.baml
+C:\Users\admin\Desktop\Commnent Box Live .Dot net 4.7.2 VSTO\CommnetBoxLive\taspkpanelib\obj\Debug\taspkpanelib.g.resources
+C:\Users\admin\Desktop\Commnent Box Live .Dot net 4.7.2 VSTO\CommnetBoxLive\taspkpanelib\obj\Debug\taspkpanelib.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Commnent Box Live .Dot net 4.7.2 VSTO\CommnetBoxLive\taspkpanelib\obj\Debug\taspkpanelib.dll
+C:\Users\admin\Desktop\Commnent Box Live .Dot net 4.7.2 VSTO\CommnetBoxLive\taspkpanelib\obj\Debug\taspkpanelib.pdb
