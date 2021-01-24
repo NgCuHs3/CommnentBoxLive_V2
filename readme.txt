@@ -1,4 +1,4 @@
-program command arguent 
+Program command argument 
 +cmb -hello (xuất hiện dưới các icon đặc biệt)
 +cmb -university (xuất hiện logo uel)
 +cmb -<number> <tinnhan> (lặp lại tin nhắn)
